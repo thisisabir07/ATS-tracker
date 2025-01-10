@@ -1,6 +1,7 @@
 # enviornment directories 
 env/
-
+venv/
 
 # Files
-.env
+# .env
+# .venv
