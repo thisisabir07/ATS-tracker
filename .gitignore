@@ -1,6 +1,8 @@
 # enviornment directories 
 env/
 venv/
+.env/
+.venv/
 
 # Files 
 # .env 
